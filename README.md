@@ -101,9 +101,3 @@ Suggested dashboard:
 6. Price band distribution
 7. Geographic map using latitude/longitude
 8. Availability by room type
-
-## Important analytical limitation
-
-`availability_365` means days a listing was available in the dataset's availability field. It is NOT the same as booked nights or occupancy rate. Do not present it as actual occupancy unless you introduce additional booking data and explain your assumptions.
-
-Also, correlation between price and reviews does not establish causation.
