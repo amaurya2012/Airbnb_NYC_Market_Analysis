@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+env/
+*.pyc
+.DS_Store
+# Keep the dataset local if you don't have redistribution rights
+data/AB_NYC_2019.csv
+airbnb.db
+*.db
